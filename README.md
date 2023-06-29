@@ -33,4 +33,7 @@ The ultimate battle for the fate of humanity unfolds as John and his allies conf
 
 Epilogue: A New Beginning
 
-In the aftermath of the apocalypse, John Smith emerges as a symbol of resilience and hope. With the virus eradicated and the shadowy organization dismantled, humanity begins to rebuild. John's experiences have transformed him, shaping him into a leader who inspires others to rise from the ashes and embrace a future free from the shackles of fear.
+In the aftermath of the apocalypse, John Smith emerges as a symbol of resilience and hope. With the virus eradicated and the shadowy organization dismantled, humanity begins to rebuild. John's experiences have transformed him, shaping him into a leader who inspires others to rise from the ashes and embrace a future free from the shackles of fear
+____________________________________________________________________________________________________________________________________________________________________
+
+I've already finished chapter one. I think I'll be able to finish it during the summer vacation, then I'll send the PDF on GitHub.
