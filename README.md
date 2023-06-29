@@ -33,5 +33,3 @@ The ultimate battle for the fate of humanity unfolds as John and his allies conf
 Epilogue: A New Beginning
 
 In the aftermath of the apocalypse, John Smith emerges as a symbol of resilience and hope. With the virus eradicated and the shadowy organization dismantled, humanity begins to rebuild. John's experiences have transformed him, shaping him into a leader who inspires others to rise from the ashes and embrace a future free from the shackles of fear.
-
-Chronicles of the Digital Age is a thrilling science-fiction novel that explores the depths of human courage, the perils of scientific ambition, and the enduring power of redemption. It is a story that will keep readers on the edge of their seats, with unexpected twists and turns that will leave them breathless. Prepare to embark on a journey through a world ravaged by a zombie pandemic, where one man's quest for truth becomes a fight for the survival of mankind.
