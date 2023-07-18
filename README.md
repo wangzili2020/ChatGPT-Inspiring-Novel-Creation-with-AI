@@ -17,7 +17,7 @@ Meet our hero, John Smith! 🤓 He's a computer geek and likes being alone a lot
 
 Chapter 2: Echoes of a Lost World 🏢👥
 
-As John explores the ruined city, he meets a group of survivors who are fighting against the scary virus. One of them is Dr. Emily Carter, a super smart scientist who feels really guilty because she had a part in making the virus. Together, they go on a dangerous adventure to find answers and bring hope back to humanity. 🚀
+As John explores the ruined city, he meets a group of survivors who are fighting against the scary virus. One of them is Dr. Emily Carter, a smart scientist who feels really guilty because she had a part in making the virus. Together, they go on a dangerous adventure to find answers and bring hope back to humanity. 🚀
 
 Chapter 3: Shadows of Betrayal 🕵️‍♀️🕵️‍♂️
 
