@@ -1,5 +1,5 @@
 # ChatGPT-Inspiring-Novel-Creation-with-AI
-😄working with ChatGPT(May 24 Version,Turbo(defalt for free users)) to create a zombie+post-apocalyptic novel
+😄working with ChatGPT(May 24 Version,model=text-davinci-002-render-sha,Turbo(defalt for free users)) to create a zombie+post-apocalyptic novel
 
 ____________________________________________________________________________________________________________________________________________________________________
 
